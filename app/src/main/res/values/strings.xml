@@ -2,9 +2,12 @@
 <resources>
 
     <string name="app_name">SecondApp</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
+    <string name="edit_message">Enter a name</string>
+    <string name="button_send">Add To List</string>
     <string name="action_settings">Settings</string>
-    <strint name="title_activity_main">MainActivity</strint>
 
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_activity_display_message">My Message</string>
+    <string name="list_heading">List of names:</string>
 </resources>
